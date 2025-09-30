@@ -1,0 +1,100 @@
+0001;Martelo
+0002;Chave de Fenda
+0003;Alicate Universal
+0004;Parafuso Aço Zincado
+0005;Prego Comum
+0006;Serrote de Madeira
+0007;Trena 3m
+0008;Nível de Bolha 30cm
+0009;Broca Aço Rápido 6mm
+0010;Cola de Madeira
+0011;Chave Inglesa
+0012;Chave Allen Jogo
+0013;Chave Philips
+0014;Parafusadeira Elétrica
+0015;Furadeira Impacto
+0016;Disco de Corte Inox
+0017;Disco de Desbaste
+0018;Lixa Madeira Grão 80
+0019;Lixa Ferro Grão 120
+0020;Pincel 2 Polegadas
+0021;Rolo de Pintura 23cm
+0022;Espátula Aço Flexível
+0023;Desempenadeira Aço
+0024;Balde Plástico 12L
+0025;Extensão Elétrica 5m
+0026;Fita Isolante 18mm
+0027;Fita Crepe 18mm
+0028;Silicone Acético
+0029;Vedante PU Construção
+0030;Abraçadeira Nylon 100mm
+0031;Tubo PVC 25mm
+0032;Conduíte Corrugado 20mm
+0033;Eletroduto Aço 1/2
+0034;Caixa de Passagem 4x2
+0035;Interruptor Simples
+0036;Tomada 10A
+0037;Soquete E27
+0038;Lâmpada LED 9W
+0039;Extintor Pó Químico 1kg
+0040;Capacete de Segurança
+0041;Luva de Raspa
+0042;Óculos de Proteção
+0043;Máscara PFF2
+0044;Protetor Auricular
+0045;Escada Alumínio 5 Degraus
+0046;Carrinho de Mão
+0047;Pá Quadrada
+0048;Enxada Cabo Madeira
+0049;Vassoura Piaçava
+0050;Rodo Alumínio 40cm
+0051;Balde de Pedreiro 12L
+0052;Colher de Pedreiro
+0053;Desempenadeira Plástica
+0054;Espaçador Piso 2mm
+0055;Saco de Cimento 50kg
+0056;Cal Hidratada 20kg
+0057;Areia Ensacada 20kg
+0058;Argamassa AC1 20kg
+0059;Rejunte Cinza 1kg
+0060;Tinta Acrílica 18L
+0061;Solvente Aguarrás 900ml
+0062;Removedor Multiuso 1L
+0063;Thinner Comum 900ml
+0064;Óleo Lubrificante 500ml
+0065;Graxa Branca Tubo 1kg
+0066;WD-40 Spray 300ml
+0067;Cola Instantânea 20g
+0068;Super Bonder Gel
+0069;Fita Dupla Face 19mm
+0070;Velcro Adesivo 25mm
+0071;Gancho Adesivo 3kg
+0072;Corrente Aço Galvanizado 2m
+0073;Cadeado Latão 40mm
+0074;Fechadura Porta Interna
+0075;Dobradiça Aço 3 Polegadas
+0076;Cantoneira Aço 1"
+0077;Perfil Alumínio 2m
+0078;Tela Galinheiro 5m
+0079;Arame Recozido 1kg
+0080;Cordão Nylon 20m
+0081;Corda Sisal 10m
+0082;Mangueira Jardim 15m
+0083;Aspersor Giratório
+0084;Regador Plástico 10L
+0085;Tesoura de Poda
+0086;Serrote Poda 12"
+0087;Rastelo Jardim 14 Dentes
+0088;Carrinho Jardinagem
+0089;Adubo NPK 1kg
+0090;Inseticida Spray 400ml
+0091;Repelente Elétrico
+0092;Lampião Camping
+0093;Lanterna LED Recarregável
+0094;Pilhas AA Alcalina 4un
+0095;Pilhas AAA Recarregável 2un
+0096;Bateria 9V
+0097;Carregador Universal Pilha
+0098;Cabo USB Tipo C 1m
+0099;Adaptador Tomada Universal
+0100;Protetor de Tomada Infantil

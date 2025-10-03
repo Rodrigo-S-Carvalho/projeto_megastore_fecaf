@@ -125,3 +125,5 @@ Operação em 0.000293 segundos
 6. Sair
 
 Note como a opção 2 foi escolhida no exemplo acima, o código 0005 foi pesquisado, seu resultado exibido e, em seguida, o menu está pronto para receber um novo comando.
+
+IMPORTANTE: manter a lista de produtos (produtos.txt) no mesmo diretório do arquivo executável para o funcionamento normal da aplicação.
